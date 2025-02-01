@@ -25,3 +25,8 @@ A simple **client-server chat application** built using **Python, socket program
 1. **Run the server**:  
    ```sh
    python server.py
+2. **Run the client**: 
+   ```sh
+   python client.py
+   
+3. **Enter an alias and start chatting! 🎉**
